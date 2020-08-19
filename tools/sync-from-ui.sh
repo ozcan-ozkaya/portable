@@ -52,7 +52,6 @@ sync "src/components/Properties/index.js" "src/components/Properties/index.js"
 sync "src/components/Properties/styles.scss" "src/components/Properties/styles.scss"
 
 sync "src/components/Properties/Config/index.js" "src/components/Properties/Config/index.js"
-sync "src/components/Properties/Config/styles.scss" "src/components/Properties/Config/styles.scss"
 
 sync "src/components/Properties/DnList/index.js" "src/components/Properties/DnList/index.js"
 sync "src/components/Properties/DnList/styles.scss" "src/components/Properties/DnList/styles.scss"
